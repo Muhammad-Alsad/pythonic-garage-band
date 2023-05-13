@@ -5,7 +5,7 @@
 Author: Muhammad AL-sa'd
 
 ### How to initialize/run your application (where applicable)
-- python Nmae of File 
+- python Name of File 
 
 ### To run test 
 - pytest
